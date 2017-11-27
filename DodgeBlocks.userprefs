@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{3F5D566A-A633-D126-A6F1-DB2F56A94D8B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Block.cs">
+    <Files>
+      <File FileName="Assets/Player.cs" Line="32" Column="51" />
+      <File FileName="Assets/BlockSpawner.cs" Line="17" Column="24" />
+      <File FileName="Assets/GameManager.cs" Line="17" Column="58" />
+      <File FileName="Assets/Block.cs" Line="11" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DodgeBlocks PreferredExecutionTarget="Unity.Editor" />
+</Properties>
